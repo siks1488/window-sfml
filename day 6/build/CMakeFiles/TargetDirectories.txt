@@ -1,0 +1,3 @@
+/home/Siks/Desktop/100 project c++/day 6/build/CMakeFiles/MySFMLProject.dir
+/home/Siks/Desktop/100 project c++/day 6/build/CMakeFiles/edit_cache.dir
+/home/Siks/Desktop/100 project c++/day 6/build/CMakeFiles/rebuild_cache.dir
